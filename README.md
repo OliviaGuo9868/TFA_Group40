@@ -11,4 +11,5 @@ This repository is the final project for IEORE4501 Course: TOOLS FOR ANALYTICS.
 - Section: 001
 
 ## Name and UNI for each member
+[Olivia Guo, Yifan Li]
 [kg2965, yl4921]
